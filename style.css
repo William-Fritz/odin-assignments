@@ -24,7 +24,7 @@ li a:hover {
 
 .image {
     margin: auto;
-    width: 90%;
+    width: 30%;
 }
 
 img {
@@ -36,6 +36,6 @@ img {
 
 .form {
     margin: auto;
-    width: 90%;
+    width: 30%;
     padding: 10px;
 }
