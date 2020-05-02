@@ -1,3 +1,15 @@
+* {
+    font-family: arial, sans-serif;
+    margin: 0;
+    font-size: 14px;
+}
+
+body {
+    display: block;
+    position: relative;
+    height: 100%;
+}
+
 .topnav {
     background-color: white;
     overflow: hidden;
@@ -9,7 +21,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 14px;
 }
 
 .topnav a:hover {
