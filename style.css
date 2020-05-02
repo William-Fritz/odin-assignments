@@ -1,24 +1,18 @@
-.header {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+.topnav {
+    background-color: white;
+    overflow: hidden;
 }
 
-li {
+.topnav a {
     float: right;
-}
-
-li a {
-    display: block;
-    padding: 8px;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    background-color: white;
+    font-size: 10px;
 }
 
-li a:hover {
+.topnav a:hover {
     text-decoration: underline;
 }
 
